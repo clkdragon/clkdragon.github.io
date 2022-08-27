@@ -1,0 +1,1 @@
+import{w as a}from"./index-698eae7f.js";const l="dark";var e;const o=(e=window.localStorage.getItem("theme"))!=null?e:l,r=a(o==="dark");r.subscribe(t=>{t?localStorage.setItem("theme","dark"):localStorage.setItem("theme","light")});export{r as d};
