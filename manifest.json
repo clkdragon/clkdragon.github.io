@@ -60,7 +60,7 @@
     "src": "node_modules/@fontsource/fira-sans/files/fira-sans-all-400-normal.woff"
   },
   ".svelte-kit/runtime/client/start.js": {
-    "file": "_app/immutable/start-f8cd9aab.js",
+    "file": "_app/immutable/start-8a3e6568.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -171,7 +171,7 @@
     ]
   },
   "src/routes/index.svelte": {
-    "file": "_app/immutable/pages/index.svelte-54c441d9.js",
+    "file": "_app/immutable/pages/index.svelte-176ac9f1.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
