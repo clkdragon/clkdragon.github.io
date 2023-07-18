@@ -1,1 +1,0 @@
-import{B as t}from"./index-8479b453.js";const a="dark",l=window.localStorage.getItem("theme")??a,o=t(l==="dark");o.subscribe(e=>{e?localStorage.setItem("theme","dark"):localStorage.setItem("theme","light")});export{o as d};
